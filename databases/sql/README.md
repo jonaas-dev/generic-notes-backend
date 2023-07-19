@@ -26,3 +26,4 @@
 
 - [SQLite's automatic indexes](https://misfra.me/2022/sqlite-automatic-indexes)
 - [Relational Databases Aren’t Dinosaurs, They’re Sharks](./relational-databases-they-re-sharks.md)
+- [How Slow is SELECT * ? (A deep dive)](./how-slow-is-select.md)

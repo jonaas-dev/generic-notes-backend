@@ -13,13 +13,14 @@
 
 ## :rocket: Technology
 
-- [Metlo](https://github.com/metlo-labs/metlo) is an open-source API security platform. 
+- [Metlo](https://github.com/metlo-labs/metlo) is an open-source API security platform.
 
 ## :memo: Articles
 
 - [Designing a secure API](./api/designing_a_secure_api.md)
 - [Designing APIs for humans: Object IDs](./api/designing-apis-for-humans-object-ids.md)
 - [Designing APIs for humans: Error messages](./api/designing-apis-for-humans-error-messages.md)
+- [45 ways to break an API server (negative tests with examples)](https://dev.to/zvone187/45-ways-to-break-an-api-server-negative-tests-with-examples-4ok3)
 
 ### Opinion
 
