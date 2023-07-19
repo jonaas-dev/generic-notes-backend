@@ -2,22 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [generic-notes-backend](#generic-notes-backend)
+- [Examples](#examples)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# generic-notes-backend
+# Examples
 
-Some topics related with:
-
-- `api`
-- `elasticsearch`
-- `next.js`
-- `nosql`
-- `sql`
-- `postman`
-- `python`
-- `serverless_microservices`
-- `sql`
-- `wordpress`
-- `yii2`
+- [postman-api-monitoring-examples](https://www.postman.com/postman/workspace/postman-api-monitoring-examples/overview)

@@ -2,22 +2,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [generic-notes-backend](#generic-notes-backend)
+- [Nice links](#nice-links)
+- [:memo: Articles](#memo-articles)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# generic-notes-backend
+# Nice links
 
-Some topics related with:
+- https://nextjs.org/blog/next-13#introducing-turbopack-alpha
 
-- `api`
-- `elasticsearch`
-- `next.js`
-- `nosql`
-- `sql`
-- `postman`
-- `python`
-- `serverless_microservices`
-- `sql`
-- `wordpress`
-- `yii2`
+# :memo: Articles
