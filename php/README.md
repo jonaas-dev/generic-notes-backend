@@ -4,8 +4,8 @@
 
 - [Php](#php)
   - [Libraries & others](#libraries--others)
-    - [PHP CS FIXER](#php-cs-fixer)
-      - [PHP CODE SNIFFER](#php-code-sniffer)
+  - [PHP CS FIXER](#php-cs-fixer)
+  - [PHP CODE SNIFFER](#php-code-sniffer)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -14,9 +14,9 @@
 
 ## Libraries & others
 
-- `PhpSpreadsheet`: Print pdfs.
-- `Graph` - Data Structure. ([click](https://github.com/graphp/graph))
-- `RoboTask` Modern and simple PHP task runner inspired by Gulp, Tasks:
+- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet): Print pdfs.
+- [Graph](https://github.com/graphp/graph) - Data Structure
+- [RoboTask](https://github.com/consolidation/robo) Modern and simple PHP task runner inspired by Gulp, Tasks:
   - writing cross-platform scripts
   - processing assets (less, sass, minification)
   - running tests
@@ -24,7 +24,7 @@
   - watching filesystem changes
   - deployment with sftp/ssh/docker
   
-### PHP CS FIXER
+## PHP CS FIXER
 
 Font: https://github.com/PHP-CS-Fixer/PHP-CS-Fixer
 
@@ -60,7 +60,7 @@ Una solució temporal que he trobat és configurar un `File watcher` (adjunto im
 
 ![image](https://user-images.githubusercontent.com/100514206/221419246-2f59829e-24a7-44f5-8245-547bef098023.png)
 
-#### PHP CODE SNIFFER
+## PHP CODE SNIFFER
 
 Font: https://github.com/squizlabs/PHP_CodeSniffer
 

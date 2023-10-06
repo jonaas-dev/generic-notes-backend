@@ -13,7 +13,7 @@
 
 ## :open_file_folder: Resources
 
-- Hello Python ([click](https://github.com/mouredev/Hello-Python)).
+- [Hello Python](https://github.com/mouredev/Hello-Python)
 
 ## :memo: Articles
 

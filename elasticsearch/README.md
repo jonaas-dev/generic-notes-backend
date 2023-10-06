@@ -15,6 +15,7 @@
 - (metrics) https://www.elastic.co/beats/metricbeat
 
 ## :memo: App Examples / doc 
+
 - https://codeburst.io/how-to-build-great-react-search-experiences-quickly-8c69081f328d
 - https://www.freecodecamp.org/news/building-a-github-repo-explorer-with-react-and-elasticsearch-8e1190e59c13/
 - https://medium.appbase.io/how-to-build-a-movie-search-app-with-react-and-elasticsearch-2470f202291c
@@ -23,6 +24,7 @@
 - https://codeburst.io/how-to-build-an-e-commerce-search-ui-with-react-and-elasticsearch-a581c823b2c3
 
 ## :open_file_folder: Material
+
 - https://www.themoviedb.org/
 - https://developers.themoviedb.org/3/getting-started/images
 - https://app.swiftype.com/select
@@ -31,4 +33,3 @@
 - https://opensource.appbase.io/mirage/
 - https://github.com/elastic/search-ui
 - https://www.youtube.com/playlist?list=PLCTD_CpMeEKQpL0gw5o-D7sgaxOWD3iv3
-	      
