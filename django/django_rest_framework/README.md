@@ -2,24 +2,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [generic-notes-backend](#generic-notes-backend)
+- [Content](#content)
+  - [Some rellevant links](#some-rellevant-links)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# generic-notes-backend
+# Content
 
-Some topics related with:
+## Some rellevant links
 
-- `api`
-- `elasticsearch`
-- `next.js`
-- `nosql`
-- `sql`
-- `postman`
-- `python`
-- `django`
-    - `django_rest_framework`
-- `serverless_microservices`
-- `sql`
-- `wordpress`
-- `yii2`
+- TODO
